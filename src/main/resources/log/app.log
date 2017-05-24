@@ -1,0 +1,7 @@
+2017-05-24 11:32:13 INFO  [main]: File URI have been gotten
+2017-05-24 11:32:13 INFO  [main]: Byte array from file have been gotten
+2017-05-24 11:32:13 INFO  [main]: Message from file have been gotten
+2017-05-24 11:36:46 ERROR [main]: java.lang.NullPointerException
+2017-05-24 11:40:49 INFO  [main]: File URI have been gotten
+2017-05-24 11:40:49 INFO  [main]: Byte array from file have been gotten
+2017-05-24 11:40:49 INFO  [main]: Message from file have been gotten
